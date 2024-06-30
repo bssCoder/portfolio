@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Tech Tutor",
+    "desc": "TechTutor is a fully functional EdTech platform built using the MERN stack.",
+    "image": "techtutor",
+    "category": "mern",
+    "links": {
+      "view": "https://tech-tutor-bhawani-shankar.vercel.app/",
+      "code": "https://github.com/bssCoder/TechTutor"
+    }
+  },
+  {
+    "name": "Wellness Manager",
+    "desc": "This is a healthcare platform where you can browse doctors, manage profiles, and book appointments.Aspiring doctors can apply too.",
+    "image": "well",
+    "category": "mern",
+    "links": {
+      "view": "https://wellness-manager.vercel.app/",
+      "code": "https://github.com/bssCoder/Wellness_Manager"
+    }
+  },
+  {
+    "name": "Code Catalyst",
+    "desc": "Get the latest updates on what's happening in the tech world. ",
+    "image": "codecatalyst",
+    "category": "basicweb",
+    "links": {
+      "view": "https://code-catalyst.vercel.app/",
+      "code": "https://github.com/bssCoder/Code_Catalyst"
+    }
+  },
+   
+    {
+      "name": "Portfolio Website",
+      "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+      "image": "portfolio1",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": "https://github.com/bssCoder/Portfolio-Website"
+      }
+    },
+    {
+      "name": "Password Generator",
+      "desc": "This is a simple web application that generates random passwords based on user-defined criteria.",
+      "image": "password",
+      "category": "basicweb",
+      "links": {
+        "view": "https://password-generator-bhawani-shankar-sarswats-projects.vercel.app/",
+        "code": "https://github.com/bssCoder/Password-Generator"
+      }
+    }
+    
+  ]
